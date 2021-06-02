@@ -1,0 +1,14 @@
+{
+  "name": "tp5-estructura_sitios_web",
+  "version": "1.0.0",
+  "description": "Trabajo Práctico n°5 - Estructura de Sitios Web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cecilia N. Kuckiewicz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
