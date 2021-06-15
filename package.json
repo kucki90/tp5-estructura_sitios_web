@@ -1,13 +1,21 @@
 {
-  "name": "tp5-estructura_sitios_web",
+  "name": "tp6-mercadoliebre_part2",
   "version": "1.0.0",
-  "description": "Trabajo Práctico n°5 - Estructura de Sitios Web",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kucki90/tp6mercadoliebre.git"
+  },
   "author": "Cecilia N. Kuckiewicz",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kucki90/tp6mercadoliebre/issues"
+  },
+  "homepage": "https://github.com/kucki90/tp6mercadoliebre#readme",
   "dependencies": {
     "express": "^4.17.1"
   }

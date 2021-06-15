@@ -1,0 +1,50 @@
+body{
+    background-color: var(--color-amarillo);
+}
+
+main h3{
+    font-size: 24px;
+}
+
+article .precio{
+    font-size: 18px;
+}
+
+article .descuento, article .descripcion{
+    font-size: 16px;
+}
+
+footer{
+    background-color: white;
+    color: var(--color-Grisoscuro);
+}
+
+footer section article{
+    text-align: center;
+}
+
+footer i{
+    font-size: 2em;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    color: var(--color-Celeste);
+}
+
+footer section article p, footer section article h3{
+    padding: 0 30px;
+    margin: 0;
+}
+
+footer section article h3{
+    font-size: 16px;
+}
+
+footer section article {
+    font-size: 12px;
+}
+
+.copyright{
+    padding: 0 0 20px 15px;    
+    margin-top: 20px;
+    font-size: 12px;
+}

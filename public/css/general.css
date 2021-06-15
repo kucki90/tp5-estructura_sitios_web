@@ -1,0 +1,41 @@
+:root{
+    --color-amarillo : #eac926;
+    --color-azul : #03264C;
+    --color-Celeste: #1259c3;
+    --color-Grisoscuro: #666;
+    --color-Grisclaro: #ebebeb;
+    --color-Verde: #39b54a;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.compra{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    padding: 0;
+}
+
+.burger-menu{
+    margin:0 auto 15px;
+    color: var(--color-Grisclaro);
+    background-color: var(--color-Celeste);
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    width: 33px;
+    height: 33px;
+    border-radius: 6px;
+}
